@@ -1,0 +1,7 @@
+[package]
+name = "rv32i-core"
+version = "0.1.0"
+edition = "2021"
+description = "教学用 RV32I 执行核：64KiB RAM、机器模式陷阱、MMIO 端口、逐步轨迹"
+
+[dependencies]
